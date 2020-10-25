@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.vueImg {
+  position: absolute;
+  width: 20rem;
+  left: calc(50% - 10rem);
+  top: 3rem;
+}
+
+.title {
+  position: absolute;
+  width: 60rem;
+  left: calc(50% - 30rem);
+  top: 23rem;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.dockerImg {
+  position: absolute;
+  width: 50rem;
+  left: calc(50% - 25rem);
+  top: 35rem;
+}
